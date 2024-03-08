@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 111c4bc1475efda4988bad6fbe51bbf8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roadSegmentPrefab: {fileID: 6871741647441824030, guid: 610915372955bed4190b254da10b888c, type: 3}
+  - obstaclePrefab: {fileID: 1464484887366625871, guid: 973e30aed52df874a8a9b583c4cf06d6, type: 3}
+  - coinPrefab: {fileID: 3062095789669622139, guid: 338cfb25404a52845930c8585a68aafa, type: 3}
+  - car: {fileID: 814444701054206171, guid: badfdef8ae0dced4fb700f0d2a5307fc, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
